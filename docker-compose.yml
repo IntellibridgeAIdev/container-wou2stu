@@ -9,7 +9,7 @@ services:
       - "5000:5000"
     volumes:
       - type: bind
-        source: ./src/web
+        source: ./src
         target: /usr/src/app
     environment:
       ALLOWED_HOSTS: "127.0.0.1,localhost"
