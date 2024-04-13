@@ -1,3 +1,15 @@
+# v0.0.2 (Sat Apr 13 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update docker-compose.yml ([@IntellibridgeAIdev](https://github.com/IntellibridgeAIdev))
+
+#### Authors: 1
+
+- [@IntellibridgeAIdev](https://github.com/IntellibridgeAIdev)
+
+---
+
 # v0.0.1 (Sat Apr 13 2024)
 
 :tada: This release contains work from a new contributor! :tada:
